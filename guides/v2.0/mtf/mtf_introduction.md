@@ -72,7 +72,7 @@ Relative to your software development lifecycle, the MTF can help you:
 
 <h3 id="mtf_intro_scope_use-case-ex">MTF use cases examples</h3>
 
-1.    As Magento developer I want to cover implemented functionality with new tests (for example, added attribute on Customer Form, extended Search functionality, added tags for Products etc).
+1.    As a Magento developer I want to cover implemented functionality with new tests (for example, added attribute on Customer Form, extended Search functionality, added tags for Products etc).
 
 1.    As a software engineer I want to perform regression testing before release to be confident that Magento works as expected with new functionality.
 
